@@ -1,0 +1,30 @@
+h1, h2, h3, h4 {
+     color: green;
+     font-size: 30px;
+     margin: 0px;
+     background-color: darkorange;
+}
+
+body{background-color: lavender;
+}
+
+h1{
+    color: red;
+}
+
+.important{
+    color:gold;
+    background-color: darkviolet;
+}
+
+.uppercase{
+    text-transform: uppercase;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 8px;
+    border-style: solid;
+}
+
+#the-one{
+    color: blue;
+}
